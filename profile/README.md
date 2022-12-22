@@ -20,4 +20,4 @@ If you are interested in writing an extension for Webord, please contact us at e
 
 ## Support
 
-For help with using Webord, you can contact the support team at support@webord.com.
+For help with using Webord, you can contact the support team at support@webord.de.
