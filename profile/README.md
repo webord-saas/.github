@@ -14,9 +14,9 @@ Webord is a cloud-based software as a service (SaaS) platform that offers a rang
 
 To use Webord, you will need to sign up for an account on the platform and install any necessary extensions from the marketplace.
 
-## Writing Extensions
+## Writing Plugins
 
-If you are interested in writing an extension for Webord, please contact us at extensions@dev.webord.de.
+If you are interested in writing an extension for Webord, please contact us at plugins@webord.de
 
 ## Support
 
